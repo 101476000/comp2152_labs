@@ -6,7 +6,7 @@ import functions_lab06
 
 print("    ------------------------------------------------------------------")
 print("    |    Loading previous game data...")
-# Lab 06 - Question 5
+# Lab 06 - Question 5.
 last_game = functions_lab06.load_game()
 # Game Flow
 # Define two Dice

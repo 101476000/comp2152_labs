@@ -77,7 +77,7 @@ def hero_attacks(combat_strength, m_health_points):
         m_health_points = 0
         print("    |    You have killed the monster")
     else:
-        # Player only damaged the monster
+        # Player only damaged the monster.
         m_health_points -= combat_strength
 
         print("    |    You have reduced the monster's health to: " + str(m_health_points))
