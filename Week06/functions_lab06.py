@@ -84,7 +84,7 @@ def hero_attacks(combat_strength, m_health_points):
     return m_health_points
 
 
-# Monster's Attack Function
+# Monster's Attack Function.
 def monster_attacks(m_combat_strength, health_points):
     ascii_image2 = """                                                                 
            @@@@ @                           
